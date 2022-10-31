@@ -1,7 +1,16 @@
-theme: architect
-#theme: jekyll-theme-midnight
-#theme: jekyll-theme-slate
-#theme: jekyll-theme-minimal
+#theme: architect
+theme: cayman
+#theme: dinky
+#theme: hacker
+#theme: leap-day
+#theme: merlot
+#theme: midnight
+#theme: minima
+#theme: minimal
+#theme: modernist
+#theme: slate
+#theme: tactile
+#theme: time-machine
 
 title: GPU移行ポータルサイト
 
